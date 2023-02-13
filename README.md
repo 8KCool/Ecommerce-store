@@ -1,6 +1,6 @@
 
 <img src="https://media.giphy.com/media/tPjlmJzj9Z99vwF5dV/giphy.gif" width="50" align="right"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" width="50" align="left"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="50" align="left"/>
 
 ## <div align="center">Ecommerce Store</div>
 
