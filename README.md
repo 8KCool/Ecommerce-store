@@ -3,9 +3,10 @@
 
 <div align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="50" align="right"/> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="50" align="left"/> 
-    <h3>Ecommerce Store<img src="./blackpanda.png" width="30" /></h3>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" width="50" align="left"/>
+    <h3>Ecommerce Store</h3> 
 </div>
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.0.
 
 ## Development server
